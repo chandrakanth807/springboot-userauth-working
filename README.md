@@ -1,5 +1,6 @@
 
 To get this authentication working
+
 1. under entity package.. In each entity please change catalog name to your database name.
 2. and in application properties.. change database configurations accordingly
     particularly :  spring.datasource.url=jdbc:mysql://127.0.0.1:3306/pbrain?autoReconnect=true
